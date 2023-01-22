@@ -6,5 +6,5 @@ Click <a href="https://nathanfabio.github.io/compound-interest-calculator/">here
 
 Screenshots
 
-<img src="screenshot1.png">
-<img src="screenshot2.png">
+<img src="screenshot01.png">
+<img src="screenshot02.png">
